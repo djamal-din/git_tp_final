@@ -38,7 +38,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 
 Noms des étudiants : 
 * CAMILLE Djamal-din
-* PRADEL Noa
+* PRADEL Noah
 * CHABAY--LEBLANC Yann
 
 Date du jour : 07/01/2022
